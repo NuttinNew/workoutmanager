@@ -1,0 +1,1 @@
+{bench: '~/work/python/workout/dbs/bench.db', squat: '~/work/python/workout/dbs/squat.db', deadlift: '~/work/python/workout/dbs/dead.db'}
